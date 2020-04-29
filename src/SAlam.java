@@ -4,6 +4,7 @@ public class SAlam {
         System.out.println("bele ozun necesen atam?");
         System.out.println("Ben bole dersin ta ana avradini :D");
         System.out.println("bu ne lan");
-        
+                System.out.println("Noruyoz hocam?");
+
     }
 }
